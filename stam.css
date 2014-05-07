@@ -1,0 +1,84 @@
+html, body{
+	margin:0;
+	padding:0;
+	/*overflow-y:scroll;*/
+	height:100%;
+} 
+
+#mainall {
+background-image:url("sand25.jpg");
+background-repeat: repeat;
+width:100%;
+
+}
+
+#main{
+ margin: 0 auto;
+}
+
+#header, #footer{
+	margin: 0 auto;
+	height: 100px;
+	background-color: blue;
+	text-align: center;
+	font-size: 26px;
+
+}
+
+ul{
+list-style-type:none;
+padding:0;
+}
+ul li{
+float:left;
+}
+#menulist
+{
+margin: 0 auto;
+width: 70%;
+
+}
+
+.item{
+	padding-bottom: 70px;
+	width:20%;
+}
+
+#picture{
+width: 70%;
+margin: 0 auto;
+text-align: center;
+}
+
+#boxes{
+margin: 0 auto;
+height: 210px;
+width: 50%;
+text-align: center;
+}
+
+.box{
+height:210px;
+width: 33%;
+
+}
+
+#box1{
+background-color: green;
+float:left;
+}
+
+#box2{
+background-color: red;
+float:left;
+}
+
+#box3{
+background-color: yellow;
+float:left;
+}
+
+
+
+
+
